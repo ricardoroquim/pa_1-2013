@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORIGENS", "ORIGENS\ORIGENS.csproj", "{3058E2DE-D315-4759-8266-CE88518B06F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GENESIS_UI", "GENESIS_UI\GENESIS_UI.csproj", "{81B96816-8A15-41E3-AD5B-17E9F7699763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3058E2DE-D315-4759-8266-CE88518B06F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3058E2DE-D315-4759-8266-CE88518B06F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3058E2DE-D315-4759-8266-CE88518B06F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3058E2DE-D315-4759-8266-CE88518B06F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B96816-8A15-41E3-AD5B-17E9F7699763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B96816-8A15-41E3-AD5B-17E9F7699763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B96816-8A15-41E3-AD5B-17E9F7699763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B96816-8A15-41E3-AD5B-17E9F7699763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

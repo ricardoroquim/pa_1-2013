@@ -1,0 +1,9 @@
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\bin\Debug\GENESIS_UI.exe.config
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\bin\Debug\GENESIS_UI.exe
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\bin\Debug\GENESIS_UI.pdb
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\obj\Debug\GENESIS_UI.Form1.resources
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\obj\Debug\GENESIS_UI.Properties.Resources.resources
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\obj\Debug\GENESIS_UI.csproj.GenerateResource.Cache
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\obj\Debug\GENESIS_UI.exe
+c:\Users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\obj\Debug\GENESIS_UI.pdb
+C:\Users\EmilianoEloi\documents\visual studio 2012\Projects\ORIGENS\GENESIS_UI\obj\Debug\GENESIS_UI.csprojResolveAssemblyReference.cache

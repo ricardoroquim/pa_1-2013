@@ -1,0 +1,5 @@
+c:\users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\ORIGENS\bin\Debug\ORIGENS.exe.config
+c:\users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\ORIGENS\bin\Debug\ORIGENS.exe
+c:\users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\ORIGENS\bin\Debug\ORIGENS.pdb
+c:\users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\ORIGENS\obj\Debug\ORIGENS.exe
+c:\users\emilianoeloi\documents\visual studio 2012\Projects\ORIGENS\ORIGENS\obj\Debug\ORIGENS.pdb
